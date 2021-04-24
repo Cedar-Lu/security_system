@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="id_bn_getMyLocation" type="id" />
+    <item name="id_map_common" type="id" />
+    <item name="id_map_site" type="id" />
+    <item name="id_map_traffic" type="id" />
+    <item name="id_map_mlocation" type="id" />
+    <item name="id_map_model_common" type="id" />
+    <item name="id_map_model_following" type="id" />
+    <item name="id_map_model_compass" type="id" />
+</resources>
